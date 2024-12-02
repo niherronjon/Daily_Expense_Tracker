@@ -1,5 +1,6 @@
 //Daily Expense Tracker Project
 
+
 /*Functional Requirements
 Here are 100 functional requirements divided into categories for clarity:
 
